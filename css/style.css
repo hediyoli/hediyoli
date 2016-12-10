@@ -26,12 +26,7 @@ p {
     text-rendering: optimizeLegibility;
 }
 
-#container {
-    border-style: solid;
-    border-width: 8px;
-    width: 99%;
-    height: 2500px;
-}
+
 
 #img1 {
     position: absolute;
