@@ -26,6 +26,9 @@ p {
     text-rendering: optimizeLegibility;
 }
 
+#container {
+    height: 2500px;
+}
 
 #img1 {
     position: absolute;
