@@ -33,10 +33,7 @@ p {
     text-rendering: optimizeLegibility;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-#container {
-=======
+
 audio {
     position: absolute;
     top: 750px;
@@ -51,12 +48,8 @@ audio {
 
 #container {
     width: 99%;
->>>>>>> master
     height: 2500px;
 }
-=======
-
->>>>>>> master
 
 #img1 {
     position: absolute;
